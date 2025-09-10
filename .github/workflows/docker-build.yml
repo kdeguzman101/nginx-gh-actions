@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: yourusername/my-react-app:latest
+          tags: kdeguzman101/my-react-app:latest
